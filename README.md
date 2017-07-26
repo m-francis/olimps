@@ -1,2 +1,2 @@
 # olimps
-Solving exercises from olimps.lio.lv/uzdevumi.php in C++
+Solving exercises from olimps.lio.lv/uzdevumi.php in C++ and Pascal (rare)
